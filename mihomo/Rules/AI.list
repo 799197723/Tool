@@ -1,8 +1,6 @@
 # 规则名称: AI
 # 规则统计: 38
 
-payload:
-
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,api.github.com
